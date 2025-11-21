@@ -6,9 +6,9 @@
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-**[Name / Firma einfügen]**  
-**[Adresse einfügen]**  
-**E-Mail:** [E-Mail einfügen]
+**Philip Geiger**  
+**Dientzenhoferstraße 48, 80937 München**  
+**E-Mail:** eracoding@rasselbande-shop.de
 
 ---
 
@@ -100,7 +100,7 @@ Sie haben folgende Rechte:
 - Recht auf Widerspruch (Art. 21 DSGVO)
 
 Anfragen richten Sie bitte an:  
-**[E-Mail einfügen]**
+**eracoding@rasselbande-shop.de**
 
 Wenn sich die Anfrage auf Daten bezieht, die Google verarbeitet, wenden Sie sich bitte an Google direkt.
 
