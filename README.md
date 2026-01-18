@@ -1,5 +1,3 @@
-# eracoding-de.github.io
-
 # Datenschutzerklärung
 
 ## 1. Verantwortlicher
